@@ -1,0 +1,121 @@
+/* Start of Navigation css */
+.nav, .navbar-default{
+	margin: auto;
+	background-color: white;
+	border: none;
+}
+
+.container-fluid{
+	width: 800px;
+	border-top: 1px solid #9A2424;
+	border-bottom: 1px solid #9A2424;
+	background-color: white; 
+}
+
+.dropdown-menu{
+	width: 350px;
+}
+
+#search{
+	margin-top: 20px;
+	margin: auto;
+	width: 800px;
+}
+
+#searchBox{
+    margin-bottom: 20px; 
+	margin-top: 20px;
+	float: left;
+	width: 40%;
+}
+
+#searchButton{
+	margin-top: 20px;
+	height: 35px;
+}
+
+
+/* End of navigation css */
+
+.container{
+    width: 800px;
+    margin: auto;
+}
+
+#productHeading{
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+/* Start basket css */
+
+.item{
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px; 
+	width: 90%;
+	height: 150px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px; 
+	padding-right: 10px;
+	border-bottom: 1px solid #9A2424;
+	border-top: 1px solid #9A2424;
+}
+
+/* End basket css */
+
+.imageContainer img{
+	width: 400px;
+	height: 450px;
+	border: 1px solid #9A2424;
+	float: left;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+
+.headingContainer{
+	width: 600px;
+	height: 150px;
+	float: left;
+	margin-top: 50px;
+}
+
+.priceContainer{
+	width: 350px;
+	height: 70px;
+	float: left;
+}
+
+.descriptionContainer{
+	width: 590px;
+	height: 400px;
+	float: left;
+}
+
+.buttonContainer{
+	float: left; 
+	margin-left: 100px;
+}
+
+/*Start of footer Style*/
+
+footer{
+	margin-top: 20px;
+	padding: 20px;
+	width: 100%;
+	height: 200px;
+	background-color: #9A2424;
+	text-decoration-color: white;
+}
+
+#copyRight{
+	text-align: bottom;
+	float: right;
+	color: white;
+}
+
+/*End of footer Style*/

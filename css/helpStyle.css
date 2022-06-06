@@ -1,0 +1,149 @@
+/* Start of Navigation css */
+.nav, .navbar-default{
+	margin: auto;
+	background-color: white;
+	border: none;
+}
+
+.container-fluid{
+	width: 800px;
+	border-top: 1px solid #9A2424;
+	border-bottom: 1px solid #9A2424;
+	background-color: white; 
+}
+
+.dropdown-menu{
+	width: 350px;
+}
+
+#search{
+	margin-top: 20px;
+	margin: auto;
+	width: 800px;
+}
+
+#searchBox{
+    margin-bottom: 20px; 
+	margin-top: 20px;
+	float: left;
+	width: 40%;
+}
+
+#searchButton{
+	margin-top: 20px;
+	height: 35px;
+}
+
+
+/* End of navigation css */
+
+.search{
+    float: left;
+    padding: 10px;
+    margin-right: 110px;
+    margin-left: 30px;
+    margin-top: 120px; 
+    width: 400px;
+    height: 200px;
+    border-top: 1px solid #9A2424;
+    border-bottom: 1px solid #9A2424;
+}
+
+.container{
+    width: 800px;
+    height: 100%;
+    margin: auto;
+}
+
+/* Start basket css */
+
+/* End basket css */
+
+#searchHeading{
+    border-bottom: 1px solid #9A2424;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#featuredHeading{
+    width: 50%;
+    border-bottom: 1px solid #9A2424;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.container{
+	width: 1200px;
+	margin: auto;
+}
+
+/*Start of footer Style*/
+
+footer{
+	margin-top: 20px;
+	padding: 20px;
+	width: 100%;
+	height: 200px;
+	background-color: #9A2424;
+	text-decoration-color: white;
+}
+
+#copyRight{
+	text-align: bottom;
+	float: right;
+	color: white;
+}
+
+/*End of footer Style*/
+
+.help1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	height: 2700px;
+	padding: 10px;
+	border-top: 1px solid #9A2424;
+	border-bottom: 1px solid #9A2424;
+}
+
+.help2{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	height: 2000px;
+	padding: 10px;
+	border-top: 1px solid #9A2424;
+	border-bottom: 1px solid #9A2424;
+}
+
+.help3{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	height: 1500px;
+	padding: 10px;
+	border-top: 1px solid #9A2424;
+	border-bottom: 1px solid #9A2424;
+}
+
+.help1 img{
+	width: 550px;
+	height: 350px;
+	border-radius: 15px;
+	border: 1px solid #9A2424;
+}
+
+.help2 img{
+	width: 550px;
+	height: 350px;
+	border-radius: 15px;
+	border: 1px solid #9A2424;
+}
+
+.help3 img{
+	width: 550px;
+	height: 350px;
+	border-radius: 15px;
+	border: 1px solid #9A2424;
+}

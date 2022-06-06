@@ -1,0 +1,84 @@
+.loginContainer{
+	margin: auto;
+	width: 700px;
+	height: 500px;
+	background-color: gray;
+	opacity: 0.1;
+
+}
+
+#bannerImg{
+  width: 400px;
+  height: 200px;
+  margin-top: 25px;
+  opacity: 0.7;
+}
+
+#backBanner{
+  background:url(../images/loginBack.jpg);
+  background-size:cover;
+  height: 1000px;
+  background-position:center center;
+  background-attachment:fixed;
+}
+
+.backBanner, .content{
+  text-align:center; 
+  position:relative;
+  width: 100%;
+}
+
+.inner{
+  min-height: 500px;
+  position: relative;
+}
+
+.wrapper{
+  position:absolute; 
+  top:50%; 
+  height:10em; 
+  margin-top: 3em; 
+  width:100%;
+}
+
+.backBanner h1, .backBanner p{ 
+  color:#fff;
+}
+
+.content h1, .content p{
+  color:#333;
+}
+
+h1{
+  margin-bottom:-20px;
+  font-family: "Century Gothic";
+  font-weight:400;
+  font-size: 50px;
+  padding:0px 20px;
+}
+
+p{
+  font-family: 'Noto Sans', sans-serif; 
+  font-size:14px;
+  padding:0px 20px;
+}
+
+.loginBox{
+	padding-top: 20px;
+	margin: auto;
+	width: 800px;
+	height: 400px;
+	background: rgba(0, 0, 0, 0.5);
+	border-radius: 20px;
+}
+
+.input-group{
+	margin: auto;
+	width: 50%;
+}
+
+#loginTitle{
+	margin: auto;
+	margin-bottom: 10px;
+	font-size: 4em;
+}

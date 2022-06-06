@@ -1,0 +1,135 @@
+li{
+  margin: auto;
+}
+
+#nvlLogo{
+    height: 600px;
+    width: 100%;
+}
+
+#bannerImg{
+  width: 500px;
+  height: 300px;
+  margin-top: 200px;
+  opacity: 0.7;
+}
+
+#backBanner{
+  background:url(../images/loginBack.jpg);
+  background-size:cover;
+  height: 740px;
+  background-position:center center;
+  background-attachment:fixed;
+}
+
+#groupHeading h1{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 50px;
+  color: white;
+  padding-bottom: 30px;
+}
+
+#groupHeading{
+  border-bottom: 3px solid white;
+  margin-bottom: 20px;
+}
+
+body{
+  background:url(../images/profileBack.jpg);
+  background-size:cover;
+  height: 150%;
+  background-position: center;
+  background-attachment:fixed;
+  margin: auto;
+}
+
+.recomended{
+  width: 300px;
+  float: right;
+}
+
+.search-box-size{
+  width: 600px;
+}
+
+.search-btn-size{
+  height: 34px;
+}
+
+@media screen and (min-width: 768px) {
+
+  .megamenu ul {
+     padding-bottom:15px;
+  }
+  
+  .megamenu > .dropdown-menu {
+     left:-90%;
+     min-width:800px;
+  } 
+  
+}
+
+.dropdown-md > .dropdown-menu {
+    min-width:450px;
+}
+
+.dropdown-lg > .dropdown-menu {
+    min-width:850px;
+}
+
+#aboutID{
+  margin-right: 50px;
+}
+
+.uHeading{
+  margin-bottom: 30px;
+  width: 275px;
+  height: 75px;
+  border: 3px solid white; 
+  border-radius: 50px 0px 0px 50px;
+  background: rgba(0, 0, 0, 0.5);
+  padding-left: 20px;
+  float: left;
+}
+
+.uHeading, .uDetails h1{ 
+  color: white;
+}
+
+.uDetails{
+  margin-bottom: 30px;
+  width: 665px;
+  height: 75px;
+  border: 3px solid white; 
+  border-left: none;
+  background: rgba(0, 0, 0, 0.5);
+  padding-left: 20px;
+  float: left;
+}
+
+.changeDetails{
+  margin-bottom: 30px;
+  width: 200px;
+  height: 75px;
+  border: 3px solid white; 
+  border-left: none;
+  border-radius: 0px 50px 50px 0px;
+  background: white;
+  float: right;
+}
+
+.changeDetails h1{
+  text-align: center;
+}
+
+.input{
+  width: 300px;
+  height: 40px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+label{
+  font-size: 25px;
+  color: white;
+}
